@@ -7,12 +7,10 @@ using namespace family;
 
        Tree& Tree::addFather(string child ,string ans)
         {
-           // Tree *t = new Tree("tree");
             return *this;
         }
       Tree& Tree::addMother(string,string)
         {
-            //Tree *t = new Tree("tree");
             return *this;  
         }
 
